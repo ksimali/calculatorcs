@@ -16,5 +16,15 @@ namespace calculatorcs
         {
             InitializeComponent();
         }
+
+        private void calcul_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
